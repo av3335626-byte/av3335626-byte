@@ -61,33 +61,38 @@ I build at the intersection of **intelligence, interface, and impact** — from 
 ## <code>~/terminal</code>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+amit%40github;%24+status+%E2%86%92+ONLINE;%24+mission+%E2%86%92+build+useful+AI+products" alt="Animated terminal commands" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=%24+about;%24+stack;%24+projects;%24+contact" alt="Animated visitor command prompt" />
 </div>
 
-<details open>
-  <summary><b>Open command console</b></summary>
-
 ~~~text
-┌───[amit@github]───[~/profile]
-│
-│ $ whoami
-│ amit@github — AI Engineer & Full-Stack Developer
-│
-│ $ cat ./now.txt
-│ building AI-powered web products
-│ exploring TypeScript, mobile, and voice interaction
-│
-│ $ ls ./signals
-│ [design] [engineering] [curiosity] [shipping]
-│
-│ $ contact --open
-│ portfolio  →  my-portfolio-website-dy8s.vercel.app
-│ linkedin   →  linkedin.com/in/amit-verma-97a46a288
-│
-└─── status: ONLINE • ready to build
+╭────────────────────────────────────────────────────────────────────╮
+│  ●  ●  ●   AMIT-OS / visitor-terminal                    v2.0      │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│  visitor@amit:~$ about                                            │
+│  [OK] identity loaded                                              │
+│  Amit Kumar Verma  ·  AI Engineer  ·  Full-Stack Developer         │
+│  Ranchi, India  ·  building useful products with intelligent UX    │
+│                                                                    │
+│  visitor@amit:~$ stack                                            │
+│  [OK] toolkit loaded                                               │
+│  JavaScript  TypeScript  React  Node.js  Express  AI  Figma        │
+│                                                                    │
+│  visitor@amit:~$ projects                                         │
+│  [OK] selected builds                                              │
+│  Gemini Clone  ·  AI Search  ·  Hospital App  ·  NeonDrift        │
+│                                                                    │
+│  visitor@amit:~$ contact                                          │
+│  [OPEN] portfolio  →  my-portfolio-website-dy8s.vercel.app         │
+│  [OPEN] linkedin   →  linkedin.com/in/amit-verma-97a46a288         │
+│                                                                    │
+│  visitor@amit:~$ _                                                 │
+╰────────────────────────────────────────────────────────────────────╯
 ~~~
 
-</details>
+<div align="center">
+  <sub>Try a command above mentally — this README is a visual console. Live keyboard input needs a hosted web page.</sub>
+</div>
 
 ## <code>~/builds</code>
 
