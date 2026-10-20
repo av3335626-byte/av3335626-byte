@@ -58,6 +58,37 @@ I build at the intersection of **intelligence, interface, and impact** — from 
   </tr>
 </table>
 
+## <code>~/terminal</code>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+amit%40github;%24+status+%E2%86%92+ONLINE;%24+mission+%E2%86%92+build+useful+AI+products" alt="Animated terminal commands" />
+</div>
+
+<details open>
+  <summary><b>Open command console</b></summary>
+
+~~~text
+┌───[amit@github]───[~/profile]
+│
+│ $ whoami
+│ amit@github — AI Engineer & Full-Stack Developer
+│
+│ $ cat ./now.txt
+│ building AI-powered web products
+│ exploring TypeScript, mobile, and voice interaction
+│
+│ $ ls ./signals
+│ [design] [engineering] [curiosity] [shipping]
+│
+│ $ contact --open
+│ portfolio  →  my-portfolio-website-dy8s.vercel.app
+│ linkedin   →  linkedin.com/in/amit-verma-97a46a288
+│
+└─── status: ONLINE • ready to build
+~~~
+
+</details>
+
 ## <code>~/builds</code>
 
 <div align="center">
